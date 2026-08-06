@@ -89,8 +89,6 @@ Integrate this work with:
 
 ---
 
-Status
-
-Early‑stage and exploratory.
+Status: Not started.
 
 ---
