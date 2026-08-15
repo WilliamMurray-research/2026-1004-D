@@ -1,7 +1,27 @@
-# Lisp Metamorphism and Homoiconicity
-A homoiconic, meta‑circular system that rewrites its own structure
+`2026-1009-D-read-001.md`  
 
-Start: -
+---
+
+**CLASSIFICATION**: D  
+
+**Document Reference**: `2026-1009-D-read-001`  
+# Lisp Metamorphism and Homoiconicity
+## A homoiconic, meta‑circular system that rewrites its own structure
+### Project    
+
+**Type**: read   
+**Classification**: D  
+**Version**: 0.1     
+
+William Murray  
+Systems Architect  
+15 August 2026  
+
+**Status**: Draft     
+
+**Scope**: A meta‑programming exploration of Lisp as a homoiconic, self‑modifying symbolic substrate. Focuses on AST rewriting, macro‑driven transformation, meta‑circular evaluation, and syntactic metamorphism, with the goal of understanding how Lisp enables structured self‑inspection and controlled code evolution. Serves as a conceptual lab, meta‑programming crucible, and practical testbed for developing Lisp fluency while integrating it into the broader metamorphic research ecosystem.  
+
+**Primary Model / Scheme**: Homoiconic Metamorphism Scheme v0.1 — defines AST‑level introspection rules, macro‑expansion transformation pathways, meta‑circular evaluation behaviours, and syntactic‑semantic evolution constraints. Establishes the formal substrate for symbolic self‑modification, adaptive macro systems, and metamorphic reasoning strategies within a governed, version‑controlled Lisp environment.  
 
 ---
 
