@@ -4,7 +4,7 @@
 
 **CLASSIFICATION**: D  
 
-**Document Reference**: `2026-1009-D-read-000`  
+**Document Reference**: `2026-1004-D-read-000`  
 # Lisp Metamorphism and Homoiconicity
 ## A homoiconic, meta‑circular system that rewrites its own structure
 ### Project    
